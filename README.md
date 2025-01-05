@@ -9,7 +9,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RiyadBelabbas&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RiyadBelabbas&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyadBelabbas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Python](https://img.shields.io/badge/Python-40%25-blue)
+![C#](https://img.shields.io/badge/C%23-35%25-purple)
+![HTML](https://img.shields.io/badge/HTML-10%25-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-yellow)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RiyadBelabbas&theme=radical&no-frame=true&no-bg=true&margin-w=4)
