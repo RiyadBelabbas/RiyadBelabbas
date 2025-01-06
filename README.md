@@ -17,7 +17,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RiyadBelabbas&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=RiyadBelabbas&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
+![](https://github-profile-trophy.vercel.app/?username=RudyDinis&theme=radical&no-frame=true&no-bg=true&margin-w=4)
